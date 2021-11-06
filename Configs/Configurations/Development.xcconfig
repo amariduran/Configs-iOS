@@ -1,0 +1,11 @@
+//
+//  Development.xcconfig
+//  Configs
+//
+//  Created by Cleopatra on 11/5/21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+CT_ACCENT_COLOR = DevAccentColor
